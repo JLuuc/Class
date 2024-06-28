@@ -26,6 +26,7 @@ class ClassA{
 
 class ClassB extends ClassA{
   public void methodInClassB()
+  
   {
     System.out.println("This statment i an output from invocation of method named methodInClassB.");
   }
